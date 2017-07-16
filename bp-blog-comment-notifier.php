@@ -1,13 +1,13 @@
 <?php
 /**
- * Plugin Name: BuddyPress Notify Post Author on Blog Comment
+ * Plugin Name: BuddyPress Notify Post Author on Blog Comment (github fork)
  * Plugin URI: https://buddydev.com/plugins/bp-notify-post-author-on-blog-comment/
  * Author: BuddyDev
  * Author URI: https://buddydev.com/
  * Description: Notify the Blog post author of any new comment on their blog post
- * Version: 1.0.4
+ * Version: 111111.0.4
  * License: GPL
- * Text Domain: bp-notify-post-author-on-blog-comment
+ * Text Domain: bp-notify-post-author-on-blog-comment-github-fork
  * Domain Path: /languages/
  */
 
