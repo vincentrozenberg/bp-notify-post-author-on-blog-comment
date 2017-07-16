@@ -265,7 +265,8 @@ class DevB_Blog_Comment_Notifier {
 		 
         return array(
                 'link'  => $link,
-                'text'  => $text);
+                'text'  => $text
+	);
      
 		}
     
