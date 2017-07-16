@@ -241,7 +241,7 @@ class DevB_Blog_Comment_Notifier {
         $text = sprintf(
             __( '%s commented on <strong>%s</strong>: <em>%s</em>', 'bp-notify-post-author-on-blog-comment' ),
             $name,
-            $post_title,
+            $post_title
             
         );
 		
