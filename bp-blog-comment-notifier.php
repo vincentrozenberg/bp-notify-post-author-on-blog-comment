@@ -242,7 +242,7 @@ class DevB_Blog_Comment_Notifier {
             __( '%s commented on <strong>%s</strong>: <em>%s</em>', 'bp-notify-post-author-on-blog-comment' ),
             $name,
             $post_title,
-            $comment_content
+            
         );
 		
 		if ( $comment->comment_approved == 1 ) {
